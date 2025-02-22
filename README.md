@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!, este es mi repositorio en el cual realizo proyectos sobre JAVA y Java Script, principalmente en Spring Boot y Node con React.
+Hola!, este es mi repositorio en el cual realizo proyectos sobre JAVA y Java Script, principalmente en Spring Boot y Node + React.
 
 
 ## 🌐 Socials:
